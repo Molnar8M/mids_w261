@@ -1,0 +1,6 @@
+0.5	["boon - dipped",{"cosine":null,"dice":null,"overlap":null,"jaccard":0.5}]
+1.0	["atlas - cava",{"cosine":null,"dice":null,"overlap":null,"jaccard":1.0}]
+0.25	["atlas - boon",{"cosine":null,"dice":null,"overlap":null,"jaccard":0.25}]
+0.25	["atlas - dipped",{"cosine":null,"dice":null,"overlap":null,"jaccard":0.25}]
+0.25	["boon - cava",{"cosine":null,"dice":null,"overlap":null,"jaccard":0.25}]
+0.25	["cava - dipped",{"cosine":null,"dice":null,"overlap":null,"jaccard":0.25}]
